@@ -1,0 +1,2 @@
+Existe una restricción en la cual era necesario la relación entre dos atributos de una misma entidad.
+Se soluciona estableciendo una nueva entidad Direcciones.
