@@ -1,0 +1,1 @@
+Para expresar la nueva restricción debemos quitar la propiedad coste en la relación vende entre farmacias y medicamentos y añadirle esa propiedad a cada medicamento, que al ser una entidad débil el coste dependerá de la farmacia o de la compañía farmacéutica.
